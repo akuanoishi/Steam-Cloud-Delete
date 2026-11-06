@@ -1,5 +1,8 @@
 # SteamCloudWipe
 
+![SteamCloudWipe screenshot](screenshot.png)
+
+
 Delete your own Steam Cloud save files, for any game, whether or not it is installed.
 
 This includes **Auto-Cloud** games, whose saves live in folders like AppData or Documents. Older tools based on `ISteamRemoteStorage` cannot see or delete those files.
